@@ -1,0 +1,22 @@
+1. 
+func sum(x[]int) int {}
+
+2.
+func half(x int) int {
+    x := x / 2
+    if x % 2 == 0 {
+        return x, true
+    }
+    else {
+        return x, false
+    }
+}
+
+3.
+func max(args ...int) int {
+    prev=args[0]
+    for i, len(args) {
+        if args[i-]
+    }
+    return total
+}

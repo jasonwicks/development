@@ -1,0 +1,17 @@
+terraform:
+    - terraform/**
+
+project:
+    - terraform/projects/**
+
+pipeline:
+    - terraform/pipelines/**
+
+folders:
+    - terraform/folders/**
+
+go: 
+    - go/**
+
+docker:
+    - docker/**

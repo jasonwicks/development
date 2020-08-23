@@ -60,3 +60,7 @@ credentials.json
 .idea
 env/
 test/fixtures/shared/terraform.tfvars
+
+
+# Binaries
+**/binaries/**

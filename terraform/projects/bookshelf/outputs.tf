@@ -10,6 +10,7 @@ output "domain_example" {
   description = "The organization's domain"
 }
 
+
 ## GKE Related outputs
 #
 # output "kubernetes_endpoint" {
